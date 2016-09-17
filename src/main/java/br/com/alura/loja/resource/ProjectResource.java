@@ -13,9 +13,7 @@ import javax.ws.rs.core.Response;
 
 import com.thoughtworks.xstream.XStream;
 
-import br.com.alura.loja.dao.CartDAO;
 import br.com.alura.loja.dao.ProjectDAO;
-import br.com.alura.loja.modelo.Cart;
 import br.com.alura.loja.modelo.Project;
 
 @Path("projects")
